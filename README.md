@@ -62,11 +62,11 @@ I am a **Computer Science and Engineering** student at the **University of Toled
 
 ## Research and Publications
 
-| | Paper | Venue | Role |
-|---|-------|-------|------|
-| :page_facing_up: | [**Bengali Fake News Detection: A Multi-Layered LSTM Ensemble Approach**](https://ieeexplore.ieee.org/abstract/document/11171927) | QPAIN 2025 (IEEE Xplore) - DOI: 10.1109/QPAIN66474.2025.11171927 - **1 Citation** | Co-Author |
-| :page_facing_up: | **Context-Aware Dialectal Arabic Machine Translation** | University of Toledo - Dr. Fayeq Jeelani Syed | 2nd Author |
-| :page_facing_up: | **Recursive Aesthetic Reinforcement (RAR)** | Poster - Midwest Graduate Research Symposium 2026 | 1st Author |
+| | Paper | Venue | Role | Code |
+|---|-------|-------|------|------|
+| :page_facing_up: | [**Bengali Fake News Detection: A Multi-Layered LSTM Ensemble Approach**](https://ieeexplore.ieee.org/abstract/document/11171927) | QPAIN 2025 (IEEE Xplore) - DOI: 10.1109/QPAIN66474.2025.11171927 - **1 Citation** | Co-Author | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/bengali-fake-news-lstm) |
+| :page_facing_up: | [**Context-Aware Dialectal Arabic Machine Translation**](https://github.com/Prithweeraj-Acharjee/dialectal-arabic-mt) | University of Toledo - Dr. Fayeq Jeelani Syed | 2nd Author | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/dialectal-arabic-mt) |
+| :page_facing_up: | [**Recursive Aesthetic Reinforcement (RAR)**](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement) | Poster - Midwest Graduate Research Symposium 2026 | 1st Author | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement) |
 
 ---
 
