@@ -1,11 +1,19 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Prithweeraj%20Acharjee%20Porag&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Undergrad%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Computational%20Artist%20%E2%80%A2%20Researcher&descSize=15&descAlignY=55&descAlign=50" width="100%" />
+<!-- Header -->
+```
 
-<!-- Typing SVG -->
+    "Every line of code is a brushstroke. Every system, a canvas."
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Systems+that+Move%2C+Fracture+%26+Reform;Bridging+Code%2C+Research+%26+Art)](https://git.io/typing-svg)
+```
+
+# Hi there! I am Prithweeraj
+
+<samp>CSE Undergrad / Full Stack Developer / Computational Artist / Researcher</samp>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4000&pause=2000&color=C9B037&center=true&vCenter=true&repeat=true&width=600&height=40&lines=I+build+systems+that+move%2C+fracture+%26+reform;Where+code+meets+canvas%2C+I+find+my+craft;Art+unsettles+me.+I+return+to+it+anyway.)](https://git.io/typing-svg)
 
 <!-- Social Badges Row 1 -->
 <p>
@@ -37,24 +45,20 @@
 
 ## About Me
 
-```
-Name       :  Prithweeraj Acharjee Porag
-Location   :  Toledo, OH
-Education  :  B.Sc. CSE @ University of Toledo (Jan 2024 - Now)
-Focus      :  Full Stack | ML/CV | Computational Art | Research
-Philosophy :  "Art unsettles me. I return to it anyway."
-```
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithweeraj-Acharjee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9b037&text_color=c9d1d9&langs_count=8" width="320" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithweeraj-Acharjee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="320" />
+I work with **image, distortion, memory, and code.** I build systems that move, fracture, and reform.
 
-I am a **Computer Science and Engineering** student at the **University of Toledo** who builds at the intersection of **systems engineering**, **machine learning**, and **computational art**.
+By day, I am a **Computer Science and Engineering** student at the **University of Toledo.** By instinct, a computational artist exploring what resists.
 
-- Published researcher - **IEEE Xplore** (QPAIN 2025) | **1 Citation**
-- First Author - **Midwest Graduate Research Symposium 2026**
-- Creator of **digital twins**, **real-time generative systems** and **GPU-rendered art**
-- AI Fellow at **Handshake** (LLM Evaluation)
-- Award-winning **mixed-media and computational artist**
-- **Badminton Champion** - UTBSA 2024 and 2025
+> *"I had always trouble learning art in school -- I could never draw those perfect lines. Yet I kept drawing."*
+
+- :page_facing_up: Published researcher - **IEEE Xplore** (QPAIN 2025) | **1 Citation**
+- :trophy: First Author - **Midwest Graduate Research Symposium 2026**
+- :art: Creator of **digital twins**, **GPU-rendered generative systems**, and **mixed-media art**
+- :robot: AI Fellow at **Handshake** (LLM Evaluation)
+- :1st_place_medal: **Honorable Mention** - Teravarna International Art Competition
+- :badminton: **Badminton Champion** - UTBSA 2024 and 2025
 
 <br clear="right"/>
 
@@ -167,12 +171,12 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prithweeraj-Acharjee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prithweeraj-Acharjee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prithweeraj-Acharjee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9b037&icon_color=c9b037&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Prithweeraj-Acharjee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=c9b037&fire=c9b037&currStreakLabel=c9b037" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithweeraj-Acharjee&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithweeraj-Acharjee&bg_color=0d1117&color=c9b037&line=c9b037&point=ffffff&area_color=c9b037&area=true&hide_border=true" width="98%" />
 </div>
 
 ---
@@ -195,16 +199,18 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 
 <div align="center">
 
-**Lets Connect**
+```
 
-*Open to research collaborations, full-stack projects, and creative coding experiments.*
+    "The canvas is never finished. Neither is the code."
+
+```
 
 <a href="mailto:prithweeraj.poragach02@gmail.com"><img src="https://img.shields.io/badge/Lets_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/prithweeraj-a-porag-1265553b9/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://prithwee.vercel.app"><img src="https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<sub>Systems and Aesthetics / Toledo, OH</sub>
 
 </div>
