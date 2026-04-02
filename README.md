@@ -1,19 +1,20 @@
 <div align="center">
 
-<!-- Header -->
+<!-- Matrix-Inspired Header -->
+```
+ ██████╗ ██████╗ ██╗████████╗██╗  ██╗██╗    ██╗███████╗███████╗██████╗  █████╗      ██╗
+ ██╔══██╗██╔══██╗██║╚══██╔══╝██║  ██║██║    ██║██╔════╝██╔════╝██╔══██╗██╔══██╗     ██║
+ ██████╔╝██████╔╝██║   ██║   ███████║██║ █╗ ██║█████╗  █████╗  ██████╔╝███████║     ██║
+ ██╔═══╝ ██╔══██╗██║   ██║   ██╔══██║██║███╗██║██╔══╝  ██╔══╝  ██╔══██╗██╔══██║██   ██║
+ ██║     ██║  ██║██║   ██║   ██║  ██║╚███╔███╔╝███████╗███████╗██║  ██║██║  ██║╚█████╔╝
+ ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
 ```
 
-    "Every line of code is a brushstroke. Every system, a canvas."
-
-```
-
-# Hi there! I am Prithweeraj
-
-<samp>CSE Undergrad / Full Stack Developer / Computational Artist / Researcher</samp>
+<samp>[ SYSTEM ONLINE ] CSE Undergrad // Full Stack Dev // Researcher // Computational Artist</samp>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=4000&pause=2000&color=C9B037&center=true&vCenter=true&repeat=true&width=600&height=40&lines=I+build+systems+that+move%2C+fracture+%26+reform;Where+code+meets+canvas%2C+I+find+my+craft;Art+unsettles+me.+I+return+to+it+anyway.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%3E+Initializing+systems...;%3E+Building+digital+twins+%7C+real-time+WebSocket+architectures;%3E+Training+LSTM+ensembles+%7C+NLP+pipelines;%3E+Rendering+GPU+shaders+%7C+generative+art+systems;%3E+Publishing+research+%7C+IEEE+Xplore+%7C+1+citation)](https://git.io/typing-svg)
 
 <!-- Social Badges Row 1 -->
 <p>
@@ -37,7 +38,7 @@
 <a href="mailto:pporag@rockets.utoledo.edu"><img src="https://img.shields.io/badge/UToledo-Mail-FFD700?style=for-the-badge&logo=minutemailer&logoColor=black" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Prithweeraj-Acharjee&style=flat-square&color=1f6feb" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Prithweeraj-Acharjee&style=flat-square&color=00ff41" alt="Profile Views" />
 
 </div>
 
@@ -45,20 +46,23 @@
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithweeraj-Acharjee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9b037&text_color=c9d1d9&langs_count=8" width="320" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithweeraj-Acharjee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="320" />
 
-I work with **image, distortion, memory, and code.** I build systems that move, fracture, and reform.
+```py
+class Prithweeraj:
+    role      = "CSE Undergrad @ University of Toledo"
+    stack     = ["Next.js", "FastAPI", "WebSockets", "Python"]
+    research  = ["NLP", "Computer Vision", "Generative AI"]
+    gpu       = ["WebGL", "GLSL", "Three.js"]
+    current   = "Building real-time digital twins & generative systems"
+```
 
-By day, I am a **Computer Science and Engineering** student at the **University of Toledo.** By instinct, a computational artist exploring what resists.
-
-> *"I had always trouble learning art in school -- I could never draw those perfect lines. Yet I kept drawing."*
-
-- :page_facing_up: Published researcher - **IEEE Xplore** (QPAIN 2025) | **1 Citation**
-- :trophy: First Author - **Midwest Graduate Research Symposium 2026**
-- :art: Creator of **digital twins**, **GPU-rendered generative systems**, and **mixed-media art**
-- :robot: AI Fellow at **Handshake** (LLM Evaluation)
-- :1st_place_medal: **Honorable Mention** - Teravarna International Art Competition
-- :badminton: **Badminton Champion** - UTBSA 2024 and 2025
+- :zap: Built **real-time digital twins** with WebSocket-driven state sync and SSI scoring engines
+- :brain: Published at **IEEE Xplore** (QPAIN 2025) -- LSTM ensemble for fake news detection | **1 Citation**
+- :satellite: First Author at **Midwest Graduate Research Symposium 2026** -- AI bias in generative systems
+- :gear: Engineered **$5 IoT sensor pipelines** (ESP32 + DHT22) with anomaly detection for heritage conservation
+- :art: Created **GPU-rendered generative art** using custom GLSL fragment shaders on WebGL
+- :robot: AI Fellow at **Handshake** -- benchmarking LLM outputs with gold-standard rubrics
 
 <br clear="right"/>
 
@@ -171,12 +175,12 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prithweeraj-Acharjee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9b037&icon_color=c9b037&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prithweeraj-Acharjee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=c9b037&fire=c9b037&currStreakLabel=c9b037" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prithweeraj-Acharjee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Prithweeraj-Acharjee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithweeraj-Acharjee&bg_color=0d1117&color=c9b037&line=c9b037&point=ffffff&area_color=c9b037&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithweeraj-Acharjee&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true" width="98%" />
 </div>
 
 ---
@@ -200,17 +204,15 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 <div align="center">
 
 ```
-
-    "The canvas is never finished. Neither is the code."
-
+> System.out.println("Open to research collaborations, full-stack builds, and creative engineering.");
 ```
 
 <a href="mailto:prithweeraj.poragach02@gmail.com"><img src="https://img.shields.io/badge/Lets_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/prithweeraj-a-porag-1265553b9/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://prithwee.vercel.app"><img src="https://img.shields.io/badge/See_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://prithwee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/>
 
-<sub>Systems and Aesthetics / Toledo, OH</sub>
+<samp>[ CONNECTION ESTABLISHED ] // Toledo, OH // Systems and Aesthetics</samp>
 
 </div>
