@@ -1,20 +1,10 @@
 <div align="center">
 
-<!-- Matrix-Inspired Header -->
-```
- ██████╗ ██████╗ ██╗████████╗██╗  ██╗██╗    ██╗███████╗███████╗██████╗  █████╗      ██╗
- ██╔══██╗██╔══██╗██║╚══██╔══╝██║  ██║██║    ██║██╔════╝██╔════╝██╔══██╗██╔══██╗     ██║
- ██████╔╝██████╔╝██║   ██║   ███████║██║ █╗ ██║█████╗  █████╗  ██████╔╝███████║     ██║
- ██╔═══╝ ██╔══██╗██║   ██║   ██╔══██║██║███╗██║██╔══╝  ██╔══╝  ██╔══██╗██╔══██║██   ██║
- ██║     ██║  ██║██║   ██║   ██║  ██║╚███╔███╔╝███████╗███████╗██║  ██║██║  ██║╚█████╔╝
- ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
-```
-
-<samp>[ SYSTEM ONLINE ] CSE Undergrad // Full Stack Dev // Researcher // Computational Artist</samp>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:00ff41&height=200&section=header&text=Hi%20there!%20I'm%20Prithweeraj&fontSize=40&fontColor=00ff41&animation=twinkling&fontAlignY=45" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=650&height=40&lines=%3E+Initializing+systems...;%3E+Building+digital+twins+%7C+real-time+WebSocket+architectures;%3E+Training+LSTM+ensembles+%7C+NLP+pipelines;%3E+Rendering+GPU+shaders+%7C+generative+art+systems;%3E+Publishing+research+%7C+IEEE+Xplore+%7C+1+citation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%24+building+digital+twins+%7C+real-time+systems;%24+training+LSTM+ensembles+%7C+NLP+pipelines;%24+rendering+GPU+shaders+%7C+generative+art;%24+publishing+research+%7C+IEEE+Xplore)](https://git.io/typing-svg)
 
 <!-- Social Badges Row 1 -->
 <p>
