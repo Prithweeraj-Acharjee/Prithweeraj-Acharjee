@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=35&lines=building+digital+twins+%7C+real-time+systems;training+LSTM+ensembles+%7C+NLP+pipelines;rendering+GPU+shaders+%7C+generative+art;publishing+research+%7C+IEEE+Xplore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=435&height=30&lines=building+digital+twins+%7C+real-time+systems;training+LSTM+ensembles+%7C+NLP+pipelines;rendering+GPU+shaders+%7C+generative+art;publishing+research+%7C+IEEE+Xplore)](https://git.io/typing-svg)
 
 <!-- Social Badges Row 1 -->
 <p>
@@ -36,8 +36,6 @@
 
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithweeraj-Acharjee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="320" />
-
 ```py
 class Prithweeraj:
     role      = "CSE Undergrad @ University of Toledo"
@@ -54,66 +52,55 @@ class Prithweeraj:
 - :art: Created **GPU-rendered generative art** using custom GLSL fragment shaders on WebGL
 - :robot: AI Fellow at **Handshake** -- benchmarking LLM outputs with gold-standard rubrics
 
-<br clear="right"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithweeraj-Acharjee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="400" />
+</div>
 
 ---
 
 ## Research and Publications
 
-| | Paper | Venue | Role | Code |
-|---|-------|-------|------|------|
-| :page_facing_up: | [**Bengali Fake News Detection: A Multi-Layered LSTM Ensemble Approach**](https://ieeexplore.ieee.org/abstract/document/11171927) | QPAIN 2025 (IEEE Xplore) - DOI: 10.1109/QPAIN66474.2025.11171927 - **1 Citation** | Co-Author | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/bengali-fake-news-lstm) |
-| :page_facing_up: | [**Context-Aware Dialectal Arabic Machine Translation**](https://github.com/Prithweeraj-Acharjee/dialectal-arabic-mt) | University of Toledo - Dr. Fayeq Jeelani Syed | 2nd Author | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/dialectal-arabic-mt) |
-| :page_facing_up: | [**Recursive Aesthetic Reinforcement (RAR)**](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement) | Poster - Midwest Graduate Research Symposium 2026 | 1st Author | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement) |
+**[Bengali Fake News Detection: A Multi-Layered LSTM Ensemble Approach](https://ieeexplore.ieee.org/abstract/document/11171927)**
+QPAIN 2025 (IEEE Xplore) | Co-Author | **1 Citation** | DOI: 10.1109/QPAIN66474.2025.11171927
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/bengali-fake-news-lstm)
+
+**[Context-Aware Dialectal Arabic Machine Translation](https://github.com/Prithweeraj-Acharjee/dialectal-arabic-mt)**
+University of Toledo | 2nd Author | Dr. Fayeq Jeelani Syed
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/dialectal-arabic-mt)
+
+**[Recursive Aesthetic Reinforcement (RAR)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)**
+Midwest Graduate Research Symposium 2026 | 1st Author
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3>UT Campus Twin</h3>
-<b>Real-Time Campus Digital Twin</b>
-<br/><br/>
-<code>Next.js</code> <code>FastAPI</code> <code>WebSockets</code> <code>Python</code>
-<br/><br/>
+### UT Campus Twin
+**Real-Time Campus Digital Twin** | `Next.js` `FastAPI` `WebSockets` `Python`
+
 Real-time digital twin synchronizing student and admin views of campus occupancy, parking, and alerts with SSI scoring and WebSocket-driven live state updates.
-<br/><br/>
-<a href="https://github.com/Prithweeraj-Acharjee/ut-campus-twin"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
-</td>
-<td width="50%">
-<h3>Aesthetic Resistance</h3>
-<b>Real-Time Generative System</b>
-<br/><br/>
-<code>WebGL</code> <code>GLSL</code> <code>Next.js</code> <code>GPU Rendering</code>
-<br/><br/>
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/ut-campus-twin)
+
+### Aesthetic Resistance
+**Real-Time Generative System** | `WebGL` `GLSL` `Next.js` `GPU Rendering`
+
 Browser-based real-time generative art using custom GLSL fragment shaders with dual-force GPU rendering combining aesthetic attractors with time-driven distortion.
-<br/><br/>
-<a href="https://aesthetic-resistance.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel" /></a> <a href="https://github.com/Prithweeraj-Acharjee/aesthetic-resistance"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>ConservaTwin</h3>
-<b>Heritage Conservation Platform</b>
-<br/><br/>
-<code>FastAPI</code> <code>Next.js</code> <code>IoT</code> <code>ESP32</code>
-<br/><br/>
+
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://aesthetic-resistance.vercel.app) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/aesthetic-resistance)
+
+### ConservaTwin
+**Heritage Conservation Platform** | `FastAPI` `Next.js` `IoT` `ESP32`
+
 Open-source digital twin with multi-tenant museum management, PRI engine, AI conservation advisor, and $5 IoT sensor integration with anomaly detection.
-<br/><br/>
-<a href="https://conservatwin-platform.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel" /></a> <a href="https://github.com/Prithweeraj-Acharjee/conservatwin-platform"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github" /></a>
-</td>
-<td width="50%">
-<h3>Project Proctor</h3>
-<b>LLM Evaluation - Handshake AI Fellowship</b>
-<br/><br/>
-<code>LLM</code> <code>Evaluation</code> <code>Rubric Design</code>
-<br/><br/>
+
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://conservatwin-platform.vercel.app) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/conservatwin-platform)
+
+### Project Proctor
+**LLM Evaluation - Handshake AI Fellowship** | `LLM` `Evaluation` `Rubric Design`
+
 Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. Identified reasoning errors and hallucinations in AI-generated responses.
-</td>
-</tr>
-</table>
 
 ---
 
@@ -165,12 +152,11 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 ## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prithweeraj-Acharjee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prithweeraj-Acharjee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithweeraj-Acharjee&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Prithweeraj-Acharjee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="100%" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Prithweeraj-Acharjee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="100%" />
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithweeraj-Acharjee&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
