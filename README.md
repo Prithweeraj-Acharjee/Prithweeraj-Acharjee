@@ -45,12 +45,12 @@ class Prithweeraj:
     current   = "Building real-time digital twins & generative systems"
 ```
 
-- :zap: Built **real-time digital twins** with WebSocket-driven state sync and SSI scoring engines
-- :brain: Published at **IEEE Xplore** (QPAIN 2025) -- LSTM ensemble for fake news detection | **1 Citation**
-- :satellite: First Author at **Midwest Graduate Research Symposium 2026** -- AI bias in generative systems
-- :gear: Engineered **$5 IoT sensor pipelines** (ESP32 + DHT22) with anomaly detection for heritage conservation
-- :art: Created **GPU-rendered generative art** using custom GLSL fragment shaders on WebGL
-- :robot: AI Fellow at **Handshake** -- benchmarking LLM outputs with gold-standard rubrics
+-  Built **real-time digital twins** with WebSocket-driven state sync and SSI scoring engines
+-  Published at **IEEE Xplore** (QPAIN 2025) -- LSTM ensemble for fake news detection | **1 Citation**
+-  First Author at **Midwest Graduate Research Symposium 2026** -- AI bias in generative systems
+-  Engineered **$5 IoT sensor pipelines** (ESP32 + DHT22) with anomaly detection for heritage conservation
+-  Created **GPU-rendered generative art** using custom GLSL fragment shaders on WebGL
+-  AI Fellow at **Handshake** -- benchmarking LLM outputs with gold-standard rubrics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithweeraj-Acharjee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="400" />
@@ -163,17 +163,17 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 
 ## Recognition and Involvement
 
-:trophy: **Honorable Mention** - Teravarna International Juried Art Competition, 2025
+**Honorable Mention** - Teravarna International Juried Art Competition, 2025
 
-:badminton: **Champion** - UTBSA Mens Badminton Tournament, 2024 and 2025
+**Champion** - UTBSA Mens Badminton Tournament, 2024 and 2025
 
-:page_facing_up: **Published Researcher** - IEEE Xplore (QPAIN 2025) with **1 Citation**
+**Published Researcher** - IEEE Xplore (QPAIN 2025) with **1 Citation**
 
-:robot: **AI Fellow** - Handshake (Project Proctor - LLM Evaluation)
+**AI Fellow** - Handshake (Project Proctor - LLM Evaluation)
 
-:art: **Mixed-Media and Computational Artist** - [instagram.com/prithwee____](https://www.instagram.com/prithwee____)
+**Mixed-Media and Computational Artist** - [instagram.com/prithwee____](https://www.instagram.com/prithwee____)
 
-:school: **Member** - AI/ML Club | Event Coordinator, BSA | Ohio Student Association, UToledo
+**Member** - AI/ML Club | Event Coordinator, BSA | Ohio Student Association, UToledo
 
 ---
 
