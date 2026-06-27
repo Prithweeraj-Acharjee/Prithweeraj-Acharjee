@@ -76,6 +76,13 @@ Midwest Graduate Research Symposium 2026 | 1st Author
 
 ## Featured Projects
 
+### Material: Expressions
+**Contemporary Painting Catalogue** | `Art` `Painting` `Web`
+
+A dark, gallery-grade catalogue of paintings, the studio companion to the book Material: Painting in the Post-AI Era. Series, captions, and Bangla typography in a single editorial scroll.
+
+[![Live](https://img.shields.io/badge/Live-material--expressions.vercel.app-000000?style=flat-square&logo=vercel)](https://material-expressions.vercel.app)
+
 ### Expressions Under Suffer
 **Contemporary Art Portfolio** | `Painting` `Next.js` `TypeScript`
 
