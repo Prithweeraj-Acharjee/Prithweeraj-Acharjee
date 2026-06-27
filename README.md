@@ -76,6 +76,13 @@ Midwest Graduate Research Symposium 2026 | 1st Author
 
 ## Featured Projects
 
+### Expressions Under Suffer
+**Contemporary Art Portfolio** | `Painting` `Next.js` `TypeScript`
+
+A living portfolio of paintings and writing -- the Central Face series, Freedom Under collages on the gaze, and essays on making art in the post-AI era.
+
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://expressions-under-suffer.vercel.app) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/expressions-under-suffer)
+
 ### UT Campus Twin
 **Real-Time Campus Digital Twin** | `Next.js` `FastAPI` `WebSockets` `Python`
 
