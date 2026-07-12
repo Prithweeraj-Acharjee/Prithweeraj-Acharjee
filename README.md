@@ -4,22 +4,22 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=435&height=30&lines=building+digital+twins+%7C+real-time+systems;training+LSTM+ensembles+%7C+NLP+pipelines;rendering+GPU+shaders+%7C+generative+art;publishing+research+%7C+IEEE+Xplore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=520&height=30&lines=first-author+AI+ethics+research+%40+AIES+2026;auditing+how+curation+magnifies+bias;Co-Founder+and+CEO+%40+HaorGrix;shipping+real+AI+products;painter+rethinking+AI+art)](https://git.io/typing-svg)
 
 <!-- Social Badges Row 1 -->
 <p>
 <a href="https://prithwee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-prithwee.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://scholar.google.com/scholar?q=author:prithweeraj+acharjee+porag"><img src="https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://haorgrix.com"><img src="https://img.shields.io/badge/HaorGrix-Co--Founder_&_CEO-38BDF8?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+<a href="https://scholar.google.com/scholar?q=author:prithweeraj+acharjee+porag"><img src="https://img.shields.io/badge/Google_Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/prithweeraj-a-porag-1265553b9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Prithweeraj-Acharjee"><img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <!-- Social Badges Row 2 -->
 <p>
-<a href="https://www.facebook.com/prithweerajacharjee"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/prithwee____"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://material-expressions.vercel.app"><img src="https://img.shields.io/badge/Material-Book_&_Paintings-9A3E22?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="https://www.instagram.com/prithwee____"><img src="https://img.shields.io/badge/Instagram-Art-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/Prithweeraj-Acharjee"><img src="https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Prithweeraj-Acharjee/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://app.joinhandshake.com/profiles/bsn78c"><img src="https://img.shields.io/badge/Handshake-Profile-FF7A59?style=for-the-badge&logo=handshake&logoColor=white" /></a>
 </p>
 
 <!-- Social Badges Row 3 -->
@@ -38,19 +38,20 @@
 
 ```py
 class Prithweeraj:
-    role      = "CSE Undergrad @ University of Toledo"
-    stack     = ["Next.js", "FastAPI", "WebSockets", "Python"]
-    research  = ["NLP", "Computer Vision", "Generative AI"]
-    gpu       = ["WebGL", "GLSL", "Three.js"]
-    current   = "Building real-time digital twins & generative systems"
+    role      = "AI Researcher, Founder, Computational Artist"
+    company   = "Co-Founder and CEO @ HaorGrix"
+    school    = "CS and Engineering @ University of Toledo (grad 2028)"
+    research  = ["AI Fairness", "Generative AI", "NLP", "Model Evaluation"]
+    building  = ["Reiva", "Irris", "RoboTheater"]
+    belief    = "I am a painter, and it is high time to rethink AI art"
 ```
 
--  Built **real-time digital twins** with WebSocket-driven state sync and SSI scoring engines
--  Published at **IEEE Xplore** (QPAIN 2025) -- LSTM ensemble for fake news detection | **1 Citation**
--  First Author at **Midwest Graduate Research Symposium 2026** -- AI bias in generative systems
--  Engineered **$5 IoT sensor pipelines** (ESP32 + DHT22) with anomaly detection for heritage conservation
--  Created **GPU-rendered generative art** using custom GLSL fragment shaders on WebGL
--  AI Fellow at **Handshake** -- benchmarking LLM outputs with gold-standard rubrics
+- :microscope: First author, **AIES 2026** (AAAI/ACM Conference on AI, Ethics, and Society) -- auditing how the aesthetic curation step magnifies bias in Stable Diffusion's training data *(under review)*
+- :page_facing_up: Published at **IEEE Xplore** (QPAIN 2025) -- multi-layer LSTM ensemble for Bengali fake-news detection | **1 Citation**
+- :rocket: Co-Founder and CEO of **HaorGrix** -- an AI-native software company shipping real products from Bangladesh to the world
+- :robot: Built **Reiva** (AI receptionist for clinics) and **Irris** (a mobile AI agent that acts, not just answers)
+- :performing_arts: **RoboTheater** -- placed a frontier vision-language model inside a live trolley-problem simulation to test perception against ethics
+- :art: Generative, interactive art and the book **Material: Painting in the Post-AI Era**
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithweeraj-Acharjee&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="400" />
@@ -60,61 +61,67 @@ class Prithweeraj:
 
 ## Research and Publications
 
+**[Aesthetics Is Not a Mirror: Recursive Aesthetic Reinforcement](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)**
+AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society) | 1st Author | *under review*
+How curation magnifies bias in LAION-Aesthetics V2. End-to-end audit of Stable Diffusion v1.5, base-rate-controlled, pre-registered and partially falsified, all on free compute.
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)
+
 **[Bengali Fake News Detection: A Multi-Layered LSTM Ensemble Approach](https://ieeexplore.ieee.org/abstract/document/11171927)**
 QPAIN 2025 (IEEE Xplore) | Co-Author | **1 Citation** | DOI: 10.1109/QPAIN66474.2025.11171927
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/bengali-fake-news-lstm)
 
 **[Context-Aware Dialectal Arabic Machine Translation](https://github.com/Prithweeraj-Acharjee/dialectal-arabic-mt)**
-University of Toledo | 2nd Author | Dr. Fayeq Jeelani Syed
+arXiv:2604.06456 | 2nd Author | Rule-based augmentation to 57k parallel sentences, fine-tuned mT5 for controllable region and register
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/dialectal-arabic-mt)
 
-**[Recursive Aesthetic Reinforcement (RAR)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)**
-Midwest Graduate Research Symposium 2026 | 1st Author
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)
+**DP-4DGS: Dynamic Priors for 4D Gaussian Splatting**
+Ongoing research with Dr. Aniruddha Ray, University of Toledo | Dynamic scene reconstruction with physics-informed priors
 
 ---
 
 ## Featured Projects
 
-### Material: Expressions
-**Contemporary Painting Catalogue** | `Art` `Painting` `Web`
+### Reiva -- AI Receptionist for Clinics
+**Product @ HaorGrix** | `LLM` `Voice` `Scheduling` `Real-time`
 
-A dark, gallery-grade catalogue of paintings, the studio companion to the book Material: Painting in the Post-AI Era. Series, captions, and Bangla typography in a single editorial scroll.
+Answers every call, books the appointment, and never misses a lead. Patient chat, digital prescriptions, WhatsApp booking, and a live analytics dashboard in Bangla and English.
 
-[![Live](https://img.shields.io/badge/Live-material--expressions.vercel.app-000000?style=flat-square&logo=vercel)](https://material-expressions.vercel.app)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://reiva.haorgrix.com)
 
-### Expressions Under Suffer
-**Contemporary Art Portfolio** | `Painting` `Next.js` `TypeScript`
+### Irris -- Mobile AI Agent
+**Your phone, on autopilot** | `Agents` `Planning` `Mobile` `Tool-use`
 
-A living portfolio of paintings and writing -- the Central Face series, Freedom Under collages on the gaze, and essays on making art in the post-AI era.
+A natural-language agent for the phone: give it a goal and it plans the steps and carries them out across your apps and device.
 
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://expressions-under-suffer.vercel.app) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/expressions-under-suffer)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://irris.vercel.app)
 
-### UT Campus Twin
-**Real-Time Campus Digital Twin** | `Next.js` `FastAPI` `WebSockets` `Python`
+### RoboTheater -- Multimodal Model Evaluation
+**VLM in a Live Simulation** | `VLM` `Gemini` `Three.js` `Evaluation`
 
-Real-time digital twin synchronizing student and admin views of campus occupancy, parking, and alerts with SSI scoring and WebSocket-driven live state updates.
+Placed Google Gemini inside a real-time Three.js trolley-problem film. A Python loop queries the model with a zero-context prompt and renders its decision live. It reasons about ethics correctly but fails at perception.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/ut-campus-twin)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://robotheater-site.vercel.app)
 
-### Aesthetic Resistance
-**Real-Time Generative System** | `WebGL` `GLSL` `Next.js` `GPU Rendering`
+### Material: Expressions -- Book and Paintings
+**Painting in the Post-AI Era** | `Generative Art` `WebGL` `Writing`
 
-Browser-based real-time generative art using custom GLSL fragment shaders with dual-force GPU rendering combining aesthetic attractors with time-driven distortion.
+A gallery-grade catalogue and a full-screen reader for the book *Material*, alongside the paintings it was written beside.
 
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://aesthetic-resistance.vercel.app) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/aesthetic-resistance)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://material-expressions.vercel.app)
 
-### ConservaTwin
-**Heritage Conservation Platform** | `FastAPI` `Next.js` `IoT` `ESP32`
+### A River of Gaze -- Playable Art
+**One-verb game** | `WebGL` `GLSL` `Interactive`
 
-Open-source digital twin with multi-tenant museum management, PRI engine, AI conservation advisor, and $5 IoT sensor integration with anomaly detection.
+A hold-to-hide one-verb game, all art and sound generated in code.
 
-[![Live](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://conservatwin-platform.vercel.app) [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/conservatwin-platform)
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://a-river-of-gaze.vercel.app)
 
-### Project Proctor
-**LLM Evaluation - Handshake AI Fellowship** | `LLM` `Evaluation` `Rubric Design`
+### The Frustrated Sun -- Living Painting
+**Generative, endless, interactive** | `WebGL` `GLSL` `Audio`
 
-Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. Identified reasoning errors and hallucinations in AI-generated responses.
+A contemporary generative piece built from the whole body of work, musical and never the same twice.
+
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://the-frustrated-sun.vercel.app)
 
 ---
 
@@ -124,16 +131,18 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**ML and Computer Vision**
+**ML and AI**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Graphics and GPU**
@@ -149,9 +158,8 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**Tools and Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -177,24 +185,26 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 
 ## Recognition and Involvement
 
-**Honorable Mention** - Teravarna International Juried Art Competition, 2025
+:microscope: **First Author** -- AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society), aesthetic bias audit *(under review)*
 
-**Champion** - UTBSA Mens Badminton Tournament, 2024 and 2025
+:page_facing_up: **Published Researcher** -- IEEE Xplore (QPAIN 2025) with **1 Citation**
 
-**Published Researcher** - IEEE Xplore (QPAIN 2025) with **1 Citation**
+:rocket: **Co-Founder and CEO** -- HaorGrix, AI-native software company
 
-**AI Fellow** - Handshake (Project Proctor - LLM Evaluation)
+:frame_photo: **Exhibited Artist** -- Mind & Soul Gallery & Studios, Toledo (Group Exhibition, May 2026)
 
-**Mixed-Media and Computational Artist** - [instagram.com/prithwee____](https://www.instagram.com/prithwee____)
+:trophy: **International Recognition for Visual Art** -- Teravarna, 2025
 
-**Member** - AI/ML Club | Event Coordinator, BSA | Ohio Student Association, UToledo
+:badminton: **Champion** -- UTBSA Men's Badminton Tournament, 2024 and 2025
+
+:art: **Mixed-Media and Computational Artist** -- [material-expressions.vercel.app](https://material-expressions.vercel.app)
 
 ---
 
 <div align="center">
 
 ```
-> System.out.println("Open to research collaborations, full-stack builds, and creative engineering.");
+> System.out.println("Open to research collaborations, AI product work, and creative engineering.");
 ```
 
 <a href="mailto:prithweeraj.poragach02@gmail.com"><img src="https://img.shields.io/badge/Lets_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -203,6 +213,6 @@ Authored gold-standard solutions and grading rubrics to benchmark LLM outputs. I
 
 <br/>
 
-<samp>[ CONNECTION ESTABLISHED ] // Toledo, OH // Systems and Aesthetics</samp>
+<samp>[ CONNECTION ESTABLISHED ] // Toledo and Dhaka // Systems and Aesthetics</samp>
 
 </div>
