@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=520&height=30&lines=first-author+AI+ethics+research+%40+AIES+2026;auditing+how+curation+magnifies+bias;Co-Founder+and+CEO+%40+HaorGrix;shipping+real+AI+products;painter+rethinking+AI+art)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Co-Founder+and+CEO+%40+HaorGrix;published+AI+research+%40+IEEE;shipping+real+AI+products;auditing+bias+in+generative+AI;painter+rethinking+AI+art)](https://git.io/typing-svg)
 
 <!-- Social Badges Row 1 -->
 <p>
@@ -46,8 +46,8 @@ class Prithweeraj:
     belief    = "I am a painter, and it is high time to rethink AI art"
 ```
 
-- :microscope: First author, **AIES 2026** (AAAI/ACM Conference on AI, Ethics, and Society) -- auditing how the aesthetic curation step magnifies bias in Stable Diffusion's training data *(under review)*
 - :page_facing_up: Published at **IEEE Xplore** (QPAIN 2025) -- multi-layer LSTM ensemble for Bengali fake-news detection | **1 Citation**
+- :microscope: Researching **AI fairness and generative-model bias** -- how the curation step shapes what text-to-image models learn
 - :rocket: Co-Founder and CEO of **HaorGrix** -- an AI-native software company shipping real products from Bangladesh to the world
 - :robot: Built **Reiva** (AI receptionist for clinics) and **Irris** (a mobile AI agent that acts, not just answers)
 - :performing_arts: **RoboTheater** -- placed a frontier vision-language model inside a live trolley-problem simulation to test perception against ethics
@@ -61,9 +61,9 @@ class Prithweeraj:
 
 ## Research and Publications
 
-**[Aesthetics Is Not a Mirror: Recursive Aesthetic Reinforcement](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)**
-AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society) | 1st Author | *under review*
-How curation magnifies bias in LAION-Aesthetics V2. End-to-end audit of Stable Diffusion v1.5, base-rate-controlled, pre-registered and partially falsified, all on free compute.
+**[Recursive Aesthetic Reinforcement (RAR)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)**
+Ongoing research on aesthetic bias in generative AI
+An end-to-end audit of Stable Diffusion v1.5 against the LAION-Aesthetics V2 curation step. Base-rate-controlled, pre-registered, and reproducible on free compute.
 [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Prithweeraj-Acharjee/recursive-aesthetic-reinforcement)
 
 **[Bengali Fake News Detection: A Multi-Layered LSTM Ensemble Approach](https://ieeexplore.ieee.org/abstract/document/11171927)**
@@ -184,8 +184,6 @@ A contemporary generative piece built from the whole body of work, musical and n
 ---
 
 ## Recognition and Involvement
-
-:microscope: **First Author** -- AIES 2026 (AAAI/ACM Conference on AI, Ethics, and Society), aesthetic bias audit *(under review)*
 
 :page_facing_up: **Published Researcher** -- IEEE Xplore (QPAIN 2025) with **1 Citation**
 
